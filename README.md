@@ -116,7 +116,7 @@ int main() {
 ### Uso
 
 1.  Após carregar o firmware, o Pico iniciará a comunicação serial via USB.
-2.  Abra um programa de terminal serial no seu computador (ex: PuTTY, Minicom, Serial Monitor do Arduino IDE, Thonny).
+2.  Abra um programa de terminal serial no seu computador
 3.  Configure a conexão serial para a porta COM correspondente ao Pico. A taxa de transmissão (baud rate) padrão é **115200 bps**.
 4.  Você deverá ver a mensagem: ` Pico pronto (Recepção Não Bloqueante).`
 5.  Digite um dos comandos disponíveis (`ON`, `OFF`, `A`, `B`) e pressione Enter.
